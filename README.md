@@ -128,3 +128,5 @@ Fiscal year 2009 was excluded from growth interpretation due to incomplete repor
 
 The cleaned dataset used for this analysis can be accessed here:
 - <a href="https://github.com/Real-Chris205/Sales-performance-analysis/blob/main/sales%20analysis%20project%20completed.xlsx">Dataset</a>
+
+You may download the file and reproduce the analysis independently.
