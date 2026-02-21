@@ -114,3 +114,13 @@ Maintain stable staffing across weekdays and weekends due to consistent daily de
 ## Limitations
 
 Fiscal year 2009 was excluded from growth interpretation due to incomplete reporting (July–August only). Promotional and marketing spend data were not available, limiting causal attribution beyond observable transaction and product patterns.
+
+## Dashboards
+1️⃣ Performance Overview Dashboard
+
+2️⃣ Time Series Dashboard
+
+## Data Access
+
+The cleaned dataset used for this analysis can be accessed here:
+- <a href="https://github.com/Real-Chris205/Sales-performance-analysis/blob/main/sales%20analysis%20project%20completed.xlsx">Dataset</a>
