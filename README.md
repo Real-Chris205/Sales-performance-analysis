@@ -121,6 +121,8 @@ Fiscal year 2009 was excluded from growth interpretation due to incomplete repor
 
 
 2️⃣ Time Series Dashboard
+<img width="931" height="447" alt="Time Series Bicycle" src="https://github.com/user-attachments/assets/40115d58-358a-4ab2-afa2-0487e119dbd7" />
+
 
 ## Data Access
 
