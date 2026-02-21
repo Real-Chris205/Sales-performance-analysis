@@ -117,6 +117,8 @@ Fiscal year 2009 was excluded from growth interpretation due to incomplete repor
 
 ## Dashboards
 1️⃣ Performance Overview Dashboard
+<img width="929" height="445" alt="overview bicycle" src="https://github.com/user-attachments/assets/f7c6939c-a158-44a2-bd33-4604657ec217" />
+
 
 2️⃣ Time Series Dashboard
 
