@@ -18,3 +18,20 @@ This analysis was structured around the following questions:
 - Are weekends operationally weaker than weekdays?
 
 - Which customer segments generate the highest value?
+
+## Methodology
+
+Revenue was decomposed into transaction volume and average order value to isolate primary growth drivers. Year-over-year performance was evaluated using fiscal year comparisons, excluding incomplete reporting periods.
+
+Product contribution was analyzed at the category and SKU level to identify concentration risk and growth sources. Operational intensity was normalized using average daily revenue and average daily transaction metrics to ensure fair weekday/weekend comparisons.
+
+## Key Findings
+Profitability
+
+- Total Revenue: $29.36M
+
+- Total Profit: $12.08M
+
+- Profit Margin: 41%
+
+The business demonstrates strong pricing power and effective cost retention across product categories.
