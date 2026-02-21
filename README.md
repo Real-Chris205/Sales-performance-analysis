@@ -7,14 +7,14 @@ The business operates with a strong 41% profit margin and demonstrates clear sec
 
 This analysis was structured around the following questions:
 
-What drives overall profitability?
+- What drives overall profitability?
 
-Is revenue growth volume-driven or price-driven?
+- Is revenue growth volume-driven or price-driven?
 
-Which product categories contribute most to revenue expansion?
+- Which product categories contribute most to revenue expansion?
 
-How does performance vary across fiscal quarters?
+- How does performance vary across fiscal quarters?
 
-Are weekends operationally weaker than weekdays?
+- Are weekends operationally weaker than weekdays?
 
-Which customer segments generate the highest value?
+- Which customer segments generate the highest value?
